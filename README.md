@@ -5,8 +5,11 @@ Este projeto é um script de automação frontend que automatiza o processo de l
 
 Funcionalidades
 Automatiza o processo de login no LinkedIn
+
 Utiliza o Capybara para interagir com os elementos da página
+
 Verifica o sucesso do login ao checar elementos específicos na página pós-login
+
 Segue o padrão Page Object para facilitar a manutenção e a expansão do projeto
 
 Tecnologias Utilizadas
