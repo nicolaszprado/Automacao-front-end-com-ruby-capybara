@@ -1,0 +1,1 @@
+Essa é uma automação frontend com ruby e capybara que fiz durante meus estudos da area de QA, ela faz o login de um user do linkedin automaticamente e com base em alguns elementos mapeados em tela, verifica se o login foi feito com sucesso, está feita com base na arquitetura page-object
