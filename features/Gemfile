@@ -1,0 +1,8 @@
+souce "https://rubygems.org"
+gem 'cucumber', '~> 9.2'
+gem 'capybara', '~> 3.40'
+gem 'selenium-webdriver', '~> 4.25'
+gem 'rspec', '~> 3.13'
+gem 'site_prism', '~> 5.0', '>= 5.0.3'
+gem 'solargraph', '~> 0.50.0'
+gem 'gherkin', '~> 9.0'
