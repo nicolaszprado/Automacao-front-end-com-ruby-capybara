@@ -45,5 +45,5 @@ Implementar relatórios de teste
 Expandir a automação para cobrir diferentes cenários de login (como falhas de autenticação)
 
 
-Contribuições
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um issue.
