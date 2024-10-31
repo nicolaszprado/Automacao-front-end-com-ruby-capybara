@@ -1,5 +1,7 @@
 # Automação de Login no LinkedIn com Ruby e Capybara
 
+![Ruby](https://img.shields.io/badge/Ruby-v3.0.0-red.svg)
+
 Este projeto é um script de automação frontend que automatiza o processo de login de um usuário no LinkedIn, utilizando Ruby e o framework Capybara. O script de automação foi desenvolvido seguindo o **padrão de design Page Object**, que organiza o código em classes representando diferentes páginas e elementos da aplicação, garantindo maior manutenibilidade e escalabilidade.
 
 ## Funcionalidades
